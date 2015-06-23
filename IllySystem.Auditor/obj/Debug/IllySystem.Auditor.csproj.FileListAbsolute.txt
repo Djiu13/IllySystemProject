@@ -1,0 +1,1 @@
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor\bin\Debug\IllySystem.Auditor.exe.config

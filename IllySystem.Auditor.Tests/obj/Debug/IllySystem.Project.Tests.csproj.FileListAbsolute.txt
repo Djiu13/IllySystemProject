@@ -1,0 +1,7 @@
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\bin\Debug\IllySystem.Auditor.Tests.dll
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\bin\Debug\IllySystem.Auditor.Tests.pdb
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\obj\Debug\IllySystem.Project.Tests.csprojResolveAssemblyReference.cache
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\obj\Debug\IllySystem.Auditor.Tests.dll
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\obj\Debug\IllySystem.Auditor.Tests.pdb
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\bin\Debug\IllySystem.Auditor.exe
+c:\users\guillaume\documents\visual studio 2012\Projects\IllySystem.Auditor\IllySystem.Auditor.Tests\bin\Debug\IllySystem.Auditor.pdb
